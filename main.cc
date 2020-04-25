@@ -5,7 +5,7 @@ the human whether or not they have won.
 	John Dolan	Ohio University		Fall 2019
 *************************************************************/
 #include<iostream>
-#include "othello.h"
+#include "Othello.h"
 using namespace std;
 using namespace main_savitch_14;
 
